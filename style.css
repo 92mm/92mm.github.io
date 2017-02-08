@@ -13,6 +13,7 @@
 .sidebar {
   width: 33%;
   padding: 2%;
+  text-align: center;
 }
 
 .photo {
@@ -22,4 +23,37 @@
 
 header {
   color: rgb(255, 69, 0)
+}
+
+#name {
+  font-family: Italianno, verdana;
+  font-size: 65px;
+  color: limegreen;
+}
+
+a {
+  color: limegreen;
+  text-decoration: none;
+  font-size: 20px
+}
+
+.gmail {
+  width: 30px;
+  height: 30px;
+}
+
+h1 {
+  font-family: Cinzel;
+}
+
+.title {
+  color: limegreen;
+}
+
+li {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
 }
